@@ -10,7 +10,7 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 ## How to Contribute
-
+ please fork this repository and then issue Pull requests for review.
 ### Copyright
 
 2019 Git.Training.
